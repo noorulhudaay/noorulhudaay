@@ -7,7 +7,7 @@ I am a BS Artificial Intelligence student building practical skills across web d
 ## Featured Project
 
 **Mattu Sperry Centre — Business Automation System**
-A website ([live demo](https://mattu-sperry-centre.lovable.app/)) connected to a full n8n backend automation: order handling, a RAG-powered chatbot, complaint logging, stock alerts, delivery notifications, automated reporting, and competitor price tracking.
+A website connected to a full n8n backend automation: order handling, a RAG-powered chatbot, complaint logging, stock alerts, delivery notifications, automated reporting, and competitor price tracking.
 
 ---
 
